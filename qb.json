@@ -1,0 +1,68 @@
+[
+  {
+    "section": "Kom igång",
+    "items": [
+      { "title": "För e-handlare", "href": "/getting-started/handlare" },
+      { "title": "Checklista inför lansering", "href": "/guides/checklista-lansering" },
+      { "title": "Designa din butik", "href": "/design/kom-igang-design" },
+      { "title": "För utvecklare", "href": "/tech/api-quickstart" },
+      { "title": "Skapa en integration", "href": "/tech/skapa-integration" }
+    ]
+  },
+  {
+    "section": "Dokumentation",
+    "items": [
+      { "title": "API-dokumentation", "href": "/tech/api" },
+      { "title": "Webhooks", "href": "/tech/webhooks" },
+      { "title": "Design & Temaguide", "href": "/design/index" },
+      { "title": "Systemstatus", "href": "/info/status" },
+      { "title": "Säkerhet & GDPR", "href": "/info/sakerhet-gdpr" },
+      { "title": "Hosting", "href": "/info/hosting" }
+    ]
+  },
+  {
+    "section": "Academy & Support",
+    "items": [
+      { "title": "Quickbutik Academy", "href": "/academy/index" },
+      { "title": "Hjälpcenter", "href": "/hc/index" },
+      { "title": "Vanliga frågor (FAQ)", "href": "/hc/faq" },
+      { "title": "Kontakta support", "href": "/hc/kontakta-support" }
+    ]
+  },
+  {
+    "section": "Nyheter & Transparens",
+    "items": [
+      { "title": "Senaste nytt", "href": "/news/senaste-nytt" },
+      { "title": "Changelog", "href": "/news/changelog" },
+      { "title": "Roadmap", "href": "/news/roadmap" },
+      { "title": "Systemstatus", "href": "/info/status" }
+    ]
+  },
+  {
+    "section": "Feedback & Community",
+    "items": [
+      { "title": "Lämna önskemål", "href": "/feedback/lamna-onskemal" },
+      { "title": "Se andras önskemål", "href": "/feedback/onskemalslista" },
+      { "title": "Faciter", "href": "/feedback/faciter" },
+      { "title": "Tipsa oss", "href": "/feedback/tipsa-oss" }
+    ]
+  },
+  {
+    "section": "Integrationer & Partnerskap",
+    "items": [
+      { "title": "Alla integrationer", "href": "/partners/integrationer" },
+      { "title": "Partnerprogram", "href": "/partners/bli-partner" },
+      { "title": "Partnerdokumentation", "href": "/partners/partner-docs" },
+      { "title": "Bygg en integration", "href": "/tech/skapa-integration" }
+    ]
+  },
+  {
+    "section": "Insikter & Inspiration",
+    "items": [
+      { "title": "E-handlarcase", "href": "/insikter/case" },
+      { "title": "Tillväxttips", "href": "/insikter/konvertering" },
+      { "title": "Designinspiration", "href": "/insikter/design" },
+      { "title": "Produktinsikter", "href": "/insikter/produktinsikter" }
+    ]
+  }
+]
